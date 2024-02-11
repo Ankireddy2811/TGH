@@ -1,0 +1,55 @@
+.profile-container{
+    width:401px;
+    height:56px;
+    padding: 16px 16px 16px 12px;
+    border-bottom: 1px solid #323232;
+    gap: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+   
+    
+}
+.home-container{
+    justify-content: space-around;
+    width:480px;
+    border: 0px 1px 1px 1px;
+    border-color: #323232;
+    border-width: 0px, 1px, 1px, 1px;
+    border-style: solid;
+}
+.tags-container{
+    justify-content:flex-end;
+   
+}
+.header-container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+.heading-ele{
+    width: 101px;
+    height: 19px;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0px;
+    align-self: center;
+    color: #FFFFFF;
+}
+
+
+.home-image{
+width: 24px;
+height: 24px;
+padding: 1.6px 2.4px 3.2px 2.4px
+
+}
+.hori{
+    min-height: 50px;
+}

@@ -1,0 +1,91 @@
+.each-quote{
+width: 95%;
+height: 143px;
+padding: 16px 16px 16px 12px;
+border: 0px 0px 1px 0px;
+gap: 12px;
+display: flex;
+align-items: center;
+border-bottom: 1px solid #323233;
+
+}
+
+.quote-image{
+width: 36px;
+height: 36px;
+border-radius: 50px;
+margin-bottom: 30px;
+
+}
+
+.quote-content-container{
+ width: 500px;
+
+ }
+
+.quote-author{
+    width: 114px;
+    height: 19px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #ffffff;
+
+
+}
+
+.quote-content{
+width: 430px;
+height: 19px;
+font-family: Inter;
+font-size: 15px;
+font-weight: 400;
+
+letter-spacing: 0px;
+text-align: left;
+color: #ffffff;
+
+}
+.images-container{
+    margin-top: 20px;
+}
+
+.imagess{
+  margin-right: 15px;
+
+}
+
+.unorederd-list{
+  padding-left: 5px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.each-list-item{
+    width: 80px;
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: -0.20000000298023224px;
+    text-align: left;
+    color: #616161;
+    margin-right: 5px;
+
+
+
+}
+.like-button{
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.like-background{
+  background-color: red;
+  color: red;
+}

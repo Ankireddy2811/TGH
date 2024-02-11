@@ -1,0 +1,53 @@
+.profile-data-container{
+    width: 333px;
+    height: 308px;
+    top: 56px;
+    padding: 48px;
+    gap: 16px;
+   
+
+}
+.image1{
+  width: 64px;
+  height: 64px;
+  border-radius: 50px;
+
+}
+
+.profile_name{
+width: 92px;
+height: 19px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0px;
+text-align: left;
+color: #FFFFFF;
+}
+.profile_nickname{
+    width: 47px;
+    height: 19px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FFFFFF;
+  
+}
+
+
+.profile_designation{
+    width: 304px;
+    height: 19px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FFFFFF;
+
+}
